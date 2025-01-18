@@ -51,24 +51,23 @@ This job portal website is built using Node.js, including libraries and modules 
 
 ## Project Setup
 
-Below steps have been followed to set up and build the project:
+The below steps have been followed to set up and build the project:
 
 1. Set up an Express.js application with its configurations.
 2. Install project dependencies based on the required functionalities.
 3. Configure EJS as the templating engine and create views for job seekers and recruiters.
-4. Create User and Job models with functions for user and job management.
+4. Create User and Job models with user and job management functions.
 5. Develop User and Job controllers to handle user authentication, job operations, and applicant management.
 6. Implement routes for user and job operations.
 7. Set up session-based user authentication for recruiters.
 8. Implement middleware for resume uploads, confirmation emails, and tracking visits.
-9. Ensure the code is well-documented for easy understanding of functionalities and organization.
+9. Ensure the code is well-documented to understand functionalities and organization easily.
 
 ## Live Website
 - https://easily-job-portal.onrender.com/
 
 ## Author
 
-- **Gautam**
-- **Github ID:** [gautamuniverse](https://github.com/gautamuniverse)
-- **Contact Email:** gautamthapameriid@gmail.com
-- **Instagram ID:** [@gautamuniverse.in](https://www.instagram.com/gautamuniverse.in/)
+ - **Satyam Kumar**
+
+
