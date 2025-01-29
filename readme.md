@@ -1,8 +1,9 @@
 # Job Portal Website
-
+# Mini Project - Easily 
+ - Problem Statement: https://classroom.codingninjas.com/app/classroom/me/25431/content/694256/offering/11351798
 ## Project Overview
 
-This job portal website is built using Node.js, including libraries and modules such as Express and Nodemailer. The project aims to provide a user-friendly platform for recruiters to manage job listings and for job seekers to find and apply for suitable roles.
+This job portal website uses Node.js, including libraries and modules such as Express and Nodemailer. The project aims to provide a user-friendly platform for recruiters to manage job listings and for job seekers to find and apply for suitable roles.
 
 ## Overview of Functionality
 
