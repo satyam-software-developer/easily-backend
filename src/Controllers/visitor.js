@@ -79,8 +79,8 @@ export default class Visitor {
       const transporter = nodemailer.createTransport({
         service: "gmail",
         auth: {
-          user: "nodejsgautam@gmail.com",
-          pass: "srqf hqxb iiee nvag",
+          user: "kr.satyam0506@gmail.com",
+          pass: "qafg xrjl lzaz uffo",
         },
       });
       const htmlData = `<div style="text-align: center">
@@ -95,9 +95,9 @@ export default class Visitor {
   </div>`;
       //Configure email content
       const mailOptions = {
-        from: "nodejsgautam@gmail.com",
+        from: "kr.satyam0506@gmail.com",
         to: `${email}`,
-        cc: "gautamthapameriid@gmail.com",
+        cc: "satyam@gmail.com",
         subject: "Job Application Received",
         html: htmlData, //body
       };
